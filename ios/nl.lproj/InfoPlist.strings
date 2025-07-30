@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  fishonary
+
+  Created by hoon on 2025-07-02.
+  
+*/
+"NSCameraUsageDescription" = "De app heeft toegang tot de camera nodig";
+"NSLocationWhenInUseUsageDescription" = "De app wil toegang tot je locatie";
+"NSPhotoLibraryAddUsageDescription" = "Fishonary wil toegang tot je album";

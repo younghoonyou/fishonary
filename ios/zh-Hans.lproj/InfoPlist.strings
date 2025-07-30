@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  fishonary
+
+  Created by hoon on 2025-07-02.
+  
+*/
+"NSCameraUsageDescription" = "应用需要使用您的相机拍摄鱼的照片";
+"NSLocationWhenInUseUsageDescription" = "应用使用您的位置来保存钓鱼地点";
+"NSPhotoLibraryAddUsageDescription" = "应用需要访问您的相册以保存钓到的鱼的照片";

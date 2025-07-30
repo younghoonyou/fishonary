@@ -1,0 +1,10 @@
+/* 
+  InfoPlist.strings
+  fishonary
+
+  Created by hoon on 2025-07-02.
+  
+*/
+"NSCameraUsageDescription" = "App uses your camera to take a photo of fish";
+"NSLocationWhenInUseUsageDescription" = "Your location is used to save caught fish location";
+"NSPhotoLibraryAddUsageDescription" = "App would like to access your album to save caught fish photo";
